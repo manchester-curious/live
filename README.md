@@ -3,3 +3,5 @@
 # Manchester Curious
 
 See the [gh-pages branch](https://github.com/manchester-curious/staging/tree/gh-pages) for the site files, and http://manchester-curious.github.io/staging/ for the generated site.
+
+Travis is set up using instructions from https://jekyllrb.com/docs/continuous-integration/
